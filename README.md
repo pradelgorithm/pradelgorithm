@@ -1,5 +1,5 @@
-<h1 align="center">Lucas Pradel 👋</h1>
-<h3 align="center">🚀 Technical Project Manager • AI Strategist • Builder of Builders</h3>
+<h1 align="center">Lucas Pradel </h1>
+<h3 align="center">Technical Project Manager</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucaspradel/" target="_blank">
