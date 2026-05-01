@@ -67,21 +67,6 @@ I’m strongest when I can bridge the gap between **people, systems, and shippin
   <img src="https://img.shields.io/badge/Claude%20Code-1e293b?style=for-the-badge&logoColor=white" />
 </p>
 
----
-
-## Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucaspradel/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
-  </a>
-  <a href="https://github.com/YOUR-GITHUB">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-  </a>
-</p>
-
----
-
 ## For recruiters / collaborators
 
 > [!IMPORTANT]
