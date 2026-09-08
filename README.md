@@ -67,10 +67,27 @@ I’m strongest when I can bridge the gap between **people, systems, and shippin
   <img src="https://img.shields.io/badge/Claude%20Code-1e293b?style=for-the-badge&logoColor=white" />
 </p>
 
+---
+
 ## For recruiters / collaborators
 
 > [!IMPORTANT]
 > I’m a technical PM who enjoys operating close to the code, cloud, and delivery pipeline.  
 > If you need someone who can align teams **and** understand what is actually happening under the hood, we’ll probably get along well.
 
+---
+
+## Let's connect
+
+<p align="center">
+  <a href="mailto:contact@lucaspradel.com">
+    <img src="https://img.shields.io/badge/Email-contact%40lucaspradel.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>contact@lucaspradel.com</strong>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=140&section=footer" alt="footer"/>
+```
