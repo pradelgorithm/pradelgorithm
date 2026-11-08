@@ -41,6 +41,15 @@ I’m strongest when I can bridge the gap between **people, systems, and shippin
 
 ---
 
+## Open source contributions
+
+I run these projects in production, and when something breaks I take it upstream with a reproduction.
+
+- **[Mastra](https://github.com/mastra-ai/mastra)**, the TypeScript AI agent framework: [36 issues filed](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue%20author%3Apradelgorithm), [26 of them fixed by merged pull requests](https://github.com/mastra-ai/mastra/issues?q=is%3Aissue%20author%3Apradelgorithm%20is%3Aclosed%20reason%3Acompleted%20linked%3Apr). Most are in structured output, tracing and the Langfuse exporter, and model routing. The reproductions live in [mastra-repros](https://github.com/pradelgorithm/mastra-repros).
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)**, the open-source customer support platform: [9 issues](https://github.com/chatwoot/chatwoot/issues?q=is%3Aissue%20author%3Apradelgorithm) and [8 pull requests](https://github.com/chatwoot/chatwoot/pulls?q=is%3Apr%20author%3Apradelgorithm%20is%3Aopen) open, on webhooks, the messages API, and Captain on custom OpenAI-compatible endpoints.
+
+---
+
 ## Main stack
 
 <p align="center">
